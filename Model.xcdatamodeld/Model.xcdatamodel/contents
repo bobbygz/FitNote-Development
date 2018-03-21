@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13B42" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Activity" representedClassName="Activity" syncable="YES">
+        <attribute name="finishtime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="machineID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="machineImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="machineManufacturer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="machineName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="repetitions" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="startTime" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Activity" positionX="900" positionY="-2043" width="128" height="28"/>
+    </elements>
+</model>

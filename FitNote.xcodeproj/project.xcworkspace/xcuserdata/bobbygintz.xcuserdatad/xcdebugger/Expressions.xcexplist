@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SensorTagApplicationViewController sendMail:]:SensorTagApplicationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[deviceSelector viewWillAppear:]:deviceSelector.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m.delegate">
+            </PersistentString>
+            <PersistentString
+               value = "(CBCentralManager *)self-&gt;m">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[StrengthMachineActivityViewController viewDidLoad]:StrengthMachineActivityViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[deviceSelector tableView:cellForRowAtIndexPath:]:deviceSelector.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(CALayer *)cell-&gt;_layer">
+            </PersistentString>
+            <PersistentString
+               value = "(UITableViewCell *)cell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[sensorKXTJ9 calcZValue:]:Sensors.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[sensorFitnote updateFitnoteState]:Sensors.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SensorTagApplicationViewController logValues]:SensorTagApplicationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[deviceSelector tableView:didSelectRowAtIndexPath:]:deviceSelector.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SensorTagApplicationViewController filterAccelerationData]:SensorTagApplicationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SensorTagApplicationViewController peripheral:didUpdateValueForCharacteristic:error:]:SensorTagApplicationViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "characteristic.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[sensorFitnote updateFitnoteState:]:Sensors.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SensorTagApplicationViewController calculateVelocity]:SensorTagApplicationViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[StrengthMachineActivityViewController logValues]:StrengthMachineActivityViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
