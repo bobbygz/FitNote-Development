@@ -103,7 +103,7 @@
     
     // Make self the delegate for the manager if not yet connected
    
-    if (!self.d.p.isConnected) {
+    if (self.d.p.state != CBPeripheralStateConnected) {
          self.d.manager.delegate = self;
         [self.d.manager connectPeripheral:self.d.p options:nil];
     }

@@ -38,6 +38,13 @@
         fitEquip3.gymEquipName = @"Seated Row";
         [equipmentInventory addObject:fitEquip3];
         
+        gymEquipment *fitEquip4 =  [[gymEquipment alloc]init];
+        fitEquip4.sensorID  =  BG_SENSOR_WITH_16FW;
+        fitEquip4.gymEquipImage= @"LifeFitness_Rear_Deltoid.png";
+        fitEquip4.gymEquipMfr = @"LifeFitness";
+        fitEquip4.gymEquipName = @"Seated Row";
+        [equipmentInventory addObject:fitEquip4];
+        
     }
     return self;
 }

@@ -26,13 +26,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.161797"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "267"
             endingLineNumber = "267"
             landmarkName = "-peripheral:didDiscoverServices:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -58,13 +58,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.162903"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "335"
             endingLineNumber = "335"
             landmarkName = "-makeSensorTagConfiguration"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -90,13 +90,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.163583"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1047"
             endingLineNumber = "1047"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,13 +106,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.164028"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "281"
             endingLineNumber = "281"
             landmarkName = "-peripheral:didWriteValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -122,13 +122,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.1646889"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "239"
             endingLineNumber = "239"
             landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -138,12 +138,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.165341"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "868"
             endingLineNumber = "868"
-            landmarkName = "@implementation SensorTagApplicationViewController"
+            landmarkName = "SensorTagApplicationViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -154,13 +154,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.165602"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "274"
             endingLineNumber = "274"
             landmarkName = "-peripheral:didDiscoverServices:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -170,13 +170,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.166362"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "257"
             endingLineNumber = "257"
             landmarkName = "-peripheral:didDiscoverServices:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -186,12 +186,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.1670721"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "245"
             endingLineNumber = "245"
-            landmarkName = "@implementation deviceSelector"
+            landmarkName = "deviceSelector"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -202,13 +202,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.167666"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "465"
             endingLineNumber = "465"
             landmarkName = "-peripheral:didDiscoverServices:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -218,12 +218,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.167968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "226"
             endingLineNumber = "226"
-            landmarkName = "@implementation deviceSelector"
+            landmarkName = "deviceSelector"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -234,13 +234,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.168553"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "277"
             endingLineNumber = "277"
             landmarkName = "-peripheral:didUpdateNotificationStateForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -250,13 +250,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.169149"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1042"
             endingLineNumber = "1042"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -266,12 +266,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.1693881"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "737"
             endingLineNumber = "737"
-            landmarkName = "@implementation SensorTagApplicationViewController"
+            landmarkName = "SensorTagApplicationViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -282,13 +282,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.169606"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "748"
             endingLineNumber = "748"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -298,13 +298,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.169821"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "687"
             endingLineNumber = "687"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -346,13 +346,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.170067"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "789"
             endingLineNumber = "789"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -362,13 +362,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.170285"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1048"
             endingLineNumber = "1048"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -378,13 +378,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.170491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1089"
             endingLineNumber = "1089"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -394,13 +394,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413856263.18178"
+            timestampString = "543353596.170697"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "658"
             endingLineNumber = "658"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -410,13 +410,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.170909"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1156"
             endingLineNumber = "1156"
             landmarkName = "-alphaFader:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -426,13 +426,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.1711119"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1107"
             endingLineNumber = "1107"
             landmarkName = "-alphaFader:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -442,12 +442,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.171405"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "849"
             endingLineNumber = "849"
-            landmarkName = "@implementation SensorTagApplicationViewController"
+            landmarkName = "SensorTagApplicationViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -458,13 +458,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.171635"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "787"
             endingLineNumber = "787"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -474,12 +474,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.171851"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "842"
             endingLineNumber = "842"
-            landmarkName = "@implementation SensorTagApplicationViewController"
+            landmarkName = "SensorTagApplicationViewController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -490,13 +490,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.172068"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "837"
             endingLineNumber = "837"
             landmarkName = "-filterAccelerationData"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -522,13 +522,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.172308"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1070"
             endingLineNumber = "1070"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -538,13 +538,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.172516"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1052"
             endingLineNumber = "1052"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -570,13 +570,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.172734"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "951"
             endingLineNumber = "951"
             landmarkName = "-calculateVelocity"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -625,13 +625,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.172973"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "871"
             endingLineNumber = "871"
             landmarkName = "-calculateVelocity"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -641,13 +641,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.17319"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "232"
             endingLineNumber = "232"
             landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -657,13 +657,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.1737731"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "119"
             endingLineNumber = "119"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -673,12 +673,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/gymEquipment.h"
-            timestampString = "410971652.082574"
+            timestampString = "543353596.174338"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
             endingLineNumber = "16"
-            landmarkName = "@interface gymEquipment"
+            landmarkName = "gymEquipment"
             landmarkType = "2">
          </BreakpointContent>
       </BreakpointProxy>
@@ -694,7 +694,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "11"
             endingLineNumber = "11"
-            landmarkName = "@implementation gymEquipment"
+            landmarkName = "gymEquipment"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -705,13 +705,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.174742"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "131"
             endingLineNumber = "131"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -721,13 +721,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "fitnessEquipInventory.m"
-            timestampString = "410976645.916742"
+            timestampString = "543353596.175316"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
             landmarkName = "-findEquipmentInInventory:"
-            landmarkType = "5">
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
@@ -735,6 +735,7 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[fitnessEquipInventory findEquipmentInInventory:]"
                   moduleName = "FitScribe"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/bobbygintz/Documents/XCode%20Programming/FitScribe%20SW%20Development/FitScribe%20App%201/Sensor%20Example%20Source%20Code%201.1.0/fitnessEquipInventory.m"
                   timestampString = "410976855.241724"
                   startingColumnNumber = "9223372036854775807"
@@ -749,6 +750,7 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[fitnessEquipInventory findEquipmentInInventory:]"
                   moduleName = "FitScribe"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/bobbygintz/Documents/XCode%20Programming/FitScribe%20SW%20Development/FitScribe%20App%201/Sensor%20Example%20Source%20Code%201.1.0/fitnessEquipInventory.m"
                   timestampString = "410976855.241941"
                   startingColumnNumber = "9223372036854775807"
@@ -767,13 +769,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "fitnessEquipInventory.m"
-            timestampString = "410984495.841935"
+            timestampString = "543353596.175475"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
             landmarkName = "-findEquipmentInInventory:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -783,13 +785,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.17551"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "122"
             endingLineNumber = "122"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -831,13 +833,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.176111"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "832"
             endingLineNumber = "832"
             landmarkName = "-filterAccelerationData"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -863,13 +865,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.176348"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "822"
             endingLineNumber = "822"
             landmarkName = "-filterAccelerationData"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -879,13 +881,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.176568"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "802"
             endingLineNumber = "802"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -895,13 +897,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.176783"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "822"
             endingLineNumber = "822"
             landmarkName = "-filterAccelerationData"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -927,13 +929,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.17703"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "805"
             endingLineNumber = "805"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -943,13 +945,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.177277"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "824"
             endingLineNumber = "824"
             landmarkName = "-filterAccelerationData"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -959,13 +961,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.177488"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "813"
             endingLineNumber = "813"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1007,13 +1009,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.177721"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "814"
             endingLineNumber = "814"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1071,13 +1073,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.177968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "125"
             endingLineNumber = "125"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1087,13 +1089,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.178538"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "778"
             endingLineNumber = "778"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1135,13 +1137,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.17878"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "793"
             endingLineNumber = "793"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1167,13 +1169,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.1790071"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "107"
             endingLineNumber = "107"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1199,13 +1201,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.179588"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "115"
             endingLineNumber = "115"
             landmarkName = "-tableView:numberOfRowsInSection:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1215,13 +1217,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.1801471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "537"
             endingLineNumber = "537"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1231,13 +1233,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.180362"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "584"
             endingLineNumber = "584"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1247,13 +1249,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.180644"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "372"
             endingLineNumber = "372"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1263,13 +1265,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413856263.18178"
+            timestampString = "543353596.180865"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "651"
             endingLineNumber = "651"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1279,13 +1281,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.181078"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "676"
             endingLineNumber = "676"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1295,13 +1297,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.181288"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1016"
             endingLineNumber = "1016"
             landmarkName = "-initializeSensorTagCells"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1311,13 +1313,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.181491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "341"
             endingLineNumber = "341"
             landmarkName = "-tableView:heightForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1327,13 +1329,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.181704"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "390"
             endingLineNumber = "390"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1343,13 +1345,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.181917"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "436"
             endingLineNumber = "436"
             landmarkName = "-tableView:didSelectRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1359,13 +1361,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.182132"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "362"
             endingLineNumber = "362"
             landmarkName = "-tableView:numberOfRowsInSection:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1375,13 +1377,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.1823471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "51"
             endingLineNumber = "51"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1391,13 +1393,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.1825579"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
             endingLineNumber = "45"
             landmarkName = "-viewDidDisappear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1407,13 +1409,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.182809"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "180"
             endingLineNumber = "180"
             landmarkName = "-configureSensorTag"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1423,13 +1425,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.183019"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "324"
             endingLineNumber = "324"
             landmarkName = "-sensorEnabled:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1439,13 +1441,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.183229"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "678"
             endingLineNumber = "678"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1455,13 +1457,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.1834379"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"
             endingLineNumber = "36"
             landmarkName = "-viewWillAppear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1471,13 +1473,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413857202.588959"
+            timestampString = "543353596.183639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1167"
             endingLineNumber = "1167"
             landmarkName = "-updateFintoteSensorCellView"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1487,13 +1489,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.183844"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "92"
             endingLineNumber = "92"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1503,13 +1505,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.184051"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "352"
             endingLineNumber = "352"
             landmarkName = "-tableView:heightForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1519,13 +1521,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575429.972774"
+            timestampString = "543353596.1842639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "347"
             endingLineNumber = "347"
             landmarkName = "-tableView:heightForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1535,13 +1537,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413575399.66747"
+            timestampString = "543353596.184512"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "28"
             endingLineNumber = "28"
             landmarkName = "-initWithNibName:bundle:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1551,13 +1553,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416153793.962113"
+            timestampString = "543353596.184756"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "105"
             endingLineNumber = "105"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1567,13 +1569,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.184934"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "278"
             endingLineNumber = "278"
             landmarkName = "-deconfigureSensorTag"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1583,13 +1585,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/SensorTagApplicationViewController.m"
-            timestampString = "413639657.700826"
+            timestampString = "543353596.18497"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
             endingLineNumber = "39"
             landmarkName = "-viewWillDisappear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1599,13 +1601,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.185181"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "744"
             endingLineNumber = "744"
             landmarkName = "-logValues"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1615,13 +1617,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.185215"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "161"
             endingLineNumber = "161"
             landmarkName = "-viewDidDisappear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1631,13 +1633,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1852469"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "167"
             endingLineNumber = "167"
             landmarkName = "-viewWillDisappear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1647,13 +1649,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.185279"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
             endingLineNumber = "56"
             landmarkName = "-viewWillAppear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1673,29 +1675,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.18586"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "216"
             endingLineNumber = "216"
             landmarkName = "-centralManagerDidUpdateState:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.186445"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "229"
             endingLineNumber = "229"
             landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1705,13 +1707,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.187032"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
             endingLineNumber = "32"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1721,13 +1723,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.187618"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "161"
             endingLineNumber = "161"
             landmarkName = "-tableView:didSelectRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1737,13 +1739,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.188187"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "288"
             endingLineNumber = "288"
             landmarkName = "-makeSensorTagConfiguration"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1753,13 +1755,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.188754"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "59"
             endingLineNumber = "59"
             landmarkName = "-viewWillAppear:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1769,13 +1771,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416153793.962113"
+            timestampString = "543353596.189322"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
             endingLineNumber = "45"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1785,13 +1787,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1893589"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "597"
             endingLineNumber = "597"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1801,13 +1803,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.189391"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "604"
             endingLineNumber = "604"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1817,13 +1819,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1894211"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "578"
             endingLineNumber = "578"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1833,13 +1835,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416153793.962113"
+            timestampString = "543353596.189451"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
             endingLineNumber = "32"
             landmarkName = "-initWithNibName:bundle:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1849,13 +1851,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.189481"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "390"
             endingLineNumber = "390"
             landmarkName = "-centralManager:didConnectPeripheral:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1865,13 +1867,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1895109"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "188"
             endingLineNumber = "188"
             landmarkName = "-configureSensorTag"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1881,13 +1883,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.189541"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "332"
             endingLineNumber = "332"
             landmarkName = "-sensorEnabled:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1897,13 +1899,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416153793.962113"
+            timestampString = "543353596.189571"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "111"
             endingLineNumber = "111"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1929,13 +1931,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.189626"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
             endingLineNumber = "41"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1945,13 +1947,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.190182"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "346"
             endingLineNumber = "346"
             landmarkName = "-tableView:numberOfRowsInSection:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1961,13 +1963,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.190217"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "359"
             endingLineNumber = "359"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1977,13 +1979,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1902471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "655"
             endingLineNumber = "655"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1993,13 +1995,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.1902781"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "962"
             endingLineNumber = "962"
             landmarkName = "-endOfRestInterval:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2009,13 +2011,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.190308"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "370"
             endingLineNumber = "370"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2030,7 +2032,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "17"
             endingLineNumber = "17"
-            landmarkName = "@implementation AppDelegate"
+            landmarkName = "AppDelegate"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2047,7 +2049,7 @@
             startingLineNumber = "139"
             endingLineNumber = "139"
             landmarkName = "-managedObjectModel"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2057,13 +2059,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.190361"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "646"
             endingLineNumber = "646"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2073,13 +2075,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177747.987862"
+            timestampString = "543353596.190393"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "205"
             endingLineNumber = "205"
             landmarkName = "-prepareForSegue:sender:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2095,7 +2097,7 @@
             startingLineNumber = "99"
             endingLineNumber = "99"
             landmarkName = "-saveContext"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2105,13 +2107,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.190972"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1021"
             endingLineNumber = "1021"
             landmarkName = "-handleWeightSelectSlider:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2121,13 +2123,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.191008"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "986"
             endingLineNumber = "986"
             landmarkName = "-mailComposeController:didFinishWithResult:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2143,7 +2145,7 @@
             startingLineNumber = "147"
             endingLineNumber = "147"
             landmarkName = "-persistentStoreCoordinator"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2159,7 +2161,7 @@
             startingLineNumber = "96"
             endingLineNumber = "96"
             landmarkName = "-applicationWillTerminate:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2175,7 +2177,7 @@
             startingLineNumber = "80"
             endingLineNumber = "80"
             landmarkName = "-applicationDidEnterBackground:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2191,7 +2193,7 @@
             startingLineNumber = "35"
             endingLineNumber = "35"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2207,7 +2209,7 @@
             startingLineNumber = "179"
             endingLineNumber = "179"
             landmarkName = "-tableView:canMoveRowAtIndexPath:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2222,7 +2224,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "165"
             endingLineNumber = "165"
-            landmarkName = "@implementation WorkoutLogController"
+            landmarkName = "WorkoutLogController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2238,7 +2240,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
             endingLineNumber = "49"
-            landmarkName = "@implementation WorkoutLogController"
+            landmarkName = "WorkoutLogController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2255,7 +2257,7 @@
             startingLineNumber = "78"
             endingLineNumber = "78"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2287,7 +2289,7 @@
             startingLineNumber = "68"
             endingLineNumber = "68"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2303,7 +2305,7 @@
             startingLineNumber = "26"
             endingLineNumber = "26"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2318,7 +2320,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "174"
             endingLineNumber = "174"
-            landmarkName = "@implementation WorkoutLogController"
+            landmarkName = "WorkoutLogController"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2335,7 +2337,7 @@
             startingLineNumber = "84"
             endingLineNumber = "84"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2351,7 +2353,7 @@
             startingLineNumber = "83"
             endingLineNumber = "83"
             landmarkName = "-numberOfSectionsInTableView:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2361,13 +2363,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "416178303.542184"
+            timestampString = "543353596.191157"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "635"
             endingLineNumber = "635"
             landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2383,7 +2385,7 @@
             startingLineNumber = "41"
             endingLineNumber = "41"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
@@ -2391,6 +2393,7 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[NFCViewController viewDidLoad]"
                   moduleName = "FitNote"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/bobbygintz/Documents/XCode%20Programming/FitNote%20Development/NFCViewController.m"
                   timestampString = "416176888.551651"
                   startingColumnNumber = "9223372036854775807"
@@ -2405,6 +2408,7 @@
                   continueAfterRunningActions = "No"
                   symbolName = "-[NFCViewController viewDidLoad]"
                   moduleName = "FitNote"
+                  usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/bobbygintz/Documents/XCode%20Programming/FitNote%20Development/NFCViewController.m"
                   timestampString = "416176888.551851"
                   startingColumnNumber = "9223372036854775807"
@@ -2423,13 +2427,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "416177758.308935"
+            timestampString = "543353596.1912"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
             endingLineNumber = "31"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitNote/deviceSelector.m"
+            timestampString = "543353596.1917959"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

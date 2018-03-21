@@ -123,7 +123,7 @@
     CBPeripheral *p = [self.sensorTags objectAtIndex:indexPath.row];
     
     // Use UUID to look up machine from inventory
-    gymEquipment *machineFound = [self.equipment findEquipmentInInventory:[NSString stringWithFormat:@"%@",CFUUIDCreateString(nil, p.UUID)]];
+    gymEquipment *machineFound = [self.equipment findEquipmentInInventory:[NSString stringWithFormat:@"%@",p.identifier]];
     
 
     cell.deviceName.text = [NSString stringWithFormat:@"%@",machineFound.gymEquipName];
@@ -168,7 +168,7 @@
     d.p = p;
     d.manager = self.m;
     d.setupData = [self makeSensorTagConfiguration];
-    d.machine = [self.equipment findEquipmentInInventory:[NSString stringWithFormat:@"%@",CFUUIDCreateString(nil, p.UUID)]];
+    d.machine = [self.equipment findEquipmentInInventory:[NSString stringWithFormat:@"%@",p.identifier]];
     
     
      StrengthMachineActivityViewController *controller = [self.storyboard instantiateViewControllerWithIdentifier:@"strengthWorkout"];

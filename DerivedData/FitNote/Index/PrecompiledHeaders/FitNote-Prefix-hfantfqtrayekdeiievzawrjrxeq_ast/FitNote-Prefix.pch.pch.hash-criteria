@@ -1,0 +1,30 @@
+-x
+objective-c
+-arch
+arm64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fobjc-arc
+-gmodules
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.2.sdk
+-miphoneos-version-min=6.1
+-g
+-fembed-bitcode-marker
+-index-store-path
+/Users/bobbygintz/Documents/XCode Programming/FitNote Development/DerivedData/FitNote/Index/DataStore
+-iquote
+-iquote
+-I/Users/bobbygintz/Documents/XCode Programming/FitNote Development/DerivedData/FitNote/Build/Products/Debug-iphoneos/include
+-F/Users/bobbygintz/Documents/XCode Programming/FitNote Development/DerivedData/FitNote/Build/Products/Debug-iphoneos
+-ferror-limit=10
+-working-directory=/Users/bobbygintz/Documents/XCode Programming/FitNote Development
+-Xclang
+-detailed-preprocessing-record
+aarch64-apple-darwin17.4.0
+"4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)"
+SDK_PRODUCT_BUILD_VERSION=15C107
+15C107
