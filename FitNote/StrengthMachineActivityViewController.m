@@ -1018,7 +1018,7 @@
 
 -(IBAction)handleWeightSelectSlider:(UISlider *)sender{
     int discreteValue = roundl([sender value]); // Rounds float to an integer
-    discreteValue = discreteValue / 10 * 10;
+    discreteValue = discreteValue / 5 * 5;
     
     
     [sender setValue:(float)discreteValue]; // Sets your slider to this value
