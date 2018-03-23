@@ -456,7 +456,7 @@
                                 <rect key="frame" x="103" y="263" width="156" height="141"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="vzy-Ey-Y8L" userLabel="Label - rest timer">
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" id="vzy-Ey-Y8L" userLabel="Label - rest timer">
                                 <rect key="frame" x="49" y="294" width="79" height="39"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="32"/>
@@ -629,8 +629,9 @@
         <image name="weight.png" width="693" height="693"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="pee-Nz-v5x"/>
         <segue reference="ebg-Eo-1fy"/>
-        <segue reference="7re-cL-QmW"/>
+        <segue reference="fUG-93-St0"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
 </document>
