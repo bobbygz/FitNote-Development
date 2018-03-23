@@ -23,14 +23,14 @@
 - (void) speakText:(NSString *) textToSpeak
 {
     AVSpeechUtterance *utterance = [[AVSpeechUtterance alloc]initWithString:textToSpeak];
-    utterance.rate = AVSpeechUtteranceMaximumSpeechRate/4.5f;
+    utterance.rate = AVSpeechUtteranceDefaultSpeechRate;
     [self.speechSynthesizer speakUtterance:utterance];
 }
 
 - (void) speakNumber:(int) numberToSpeak{
     NSString *numberInWordFormat = [self spellInt:numberToSpeak];
     AVSpeechUtterance *utterance = [[AVSpeechUtterance alloc]initWithString:numberInWordFormat];
-     utterance.rate = AVSpeechUtteranceMaximumSpeechRate/4.5f;
+     utterance.rate = AVSpeechUtteranceDefaultSpeechRate;
     [self.speechSynthesizer speakUtterance:utterance];
 
 }

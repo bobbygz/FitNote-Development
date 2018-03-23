@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.161797"
+            timestampString = "543501101.427291"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "267"
@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.162903"
+            timestampString = "543501101.428"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "335"
@@ -80,7 +80,7 @@
             startingLineNumber = "131"
             endingLineNumber = "131"
             landmarkName = "+calcZValue:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.164028"
+            timestampString = "543501101.428582"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "281"
@@ -122,12 +122,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1646889"
+            timestampString = "543501101.428968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "239"
-            endingLineNumber = "239"
-            landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "-centralManager:didConnectPeripheral:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -154,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.165602"
+            timestampString = "543501101.429373"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "274"
@@ -170,7 +170,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.166362"
+            timestampString = "543501101.4297251"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "257"
@@ -186,13 +186,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1670721"
+            timestampString = "543501101.430073"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "245"
-            endingLineNumber = "245"
-            landmarkName = "deviceSelector"
-            landmarkType = "3">
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "-peripheral:didDiscoverServices:"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -218,7 +218,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.167968"
+            timestampString = "543501101.43045"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "226"
@@ -234,7 +234,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.168553"
+            timestampString = "543501101.430807"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "277"
@@ -320,7 +320,7 @@
             startingLineNumber = "120"
             endingLineNumber = "120"
             landmarkName = "+calcXValue:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -335,7 +335,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "148"
             endingLineNumber = "148"
-            landmarkName = "@implementation sensorFitnote"
+            landmarkName = "sensorFitnote"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -512,7 +512,7 @@
             startingLineNumber = "168"
             endingLineNumber = "168"
             landmarkName = "-init"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -592,7 +592,7 @@
             startingLineNumber = "239"
             endingLineNumber = "239"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
             <Actions>
                <BreakpointActionProxy
                   ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
@@ -615,7 +615,7 @@
             startingLineNumber = "232"
             endingLineNumber = "232"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -641,11 +641,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.17319"
+            timestampString = "543501101.431663"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "232"
-            endingLineNumber = "232"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
             landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
             landmarkType = "7">
          </BreakpointContent>
@@ -657,7 +657,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1737731"
+            timestampString = "543501101.43218"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "119"
@@ -705,7 +705,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.174742"
+            timestampString = "543501101.432653"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "131"
@@ -785,7 +785,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.17551"
+            timestampString = "543501101.433075"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "122"
@@ -807,7 +807,7 @@
             startingLineNumber = "286"
             endingLineNumber = "286"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -823,7 +823,7 @@
             startingLineNumber = "226"
             endingLineNumber = "226"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -855,7 +855,7 @@
             startingLineNumber = "171"
             endingLineNumber = "171"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -919,7 +919,7 @@
             startingLineNumber = "244"
             endingLineNumber = "244"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1025,13 +1025,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/Speak.m"
-            timestampString = "412636555.005228"
+            timestampString = "543501101.433709"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "17"
             endingLineNumber = "17"
             landmarkName = "-init"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1041,13 +1041,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/Speak.m"
-            timestampString = "412637073.162527"
+            timestampString = "543501101.433917"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
             endingLineNumber = "32"
             landmarkName = "-speakNumber:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1057,13 +1057,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/Speak.m"
-            timestampString = "412636909.907636"
+            timestampString = "543501101.434083"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "23"
             endingLineNumber = "23"
             landmarkName = "-speakText:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1073,7 +1073,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.177968"
+            timestampString = "543501101.434245"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "125"
@@ -1111,7 +1111,7 @@
             startingLineNumber = "220"
             endingLineNumber = "220"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1127,7 +1127,7 @@
             startingLineNumber = "179"
             endingLineNumber = "179"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1159,7 +1159,7 @@
             startingLineNumber = "201"
             endingLineNumber = "201"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1169,7 +1169,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1790071"
+            timestampString = "543501101.434697"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "107"
@@ -1201,7 +1201,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.179588"
+            timestampString = "543501101.435058"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "115"
@@ -1553,7 +1553,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.184756"
+            timestampString = "543501101.435817"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "105"
@@ -1569,7 +1569,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.184934"
+            timestampString = "543501101.4360861"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "278"
@@ -1601,7 +1601,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.185181"
+            timestampString = "543501101.436314"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "744"
@@ -1617,7 +1617,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.185215"
+            timestampString = "543501101.436534"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "161"
@@ -1633,7 +1633,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1852469"
+            timestampString = "543501101.436734"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "167"
@@ -1649,7 +1649,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.185279"
+            timestampString = "543501101.4369349"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
@@ -1671,11 +1671,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.18586"
+            timestampString = "543501101.437282"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "216"
@@ -1691,11 +1691,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.186445"
+            timestampString = "543501101.4377199"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "229"
-            endingLineNumber = "229"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
             landmarkName = "-centralManager:didDiscoverPeripheral:advertisementData:RSSI:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1707,7 +1707,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.187032"
+            timestampString = "543501101.4380701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -1723,7 +1723,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.187618"
+            timestampString = "543501101.438519"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "161"
@@ -1739,7 +1739,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.188187"
+            timestampString = "543501101.438876"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "288"
@@ -1755,7 +1755,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.188754"
+            timestampString = "543501101.439411"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "59"
@@ -1771,7 +1771,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189322"
+            timestampString = "543501101.439827"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
@@ -1787,7 +1787,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1893589"
+            timestampString = "543501101.44006"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "597"
@@ -1803,7 +1803,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189391"
+            timestampString = "543501101.440281"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "604"
@@ -1819,7 +1819,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1894211"
+            timestampString = "543501101.440623"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "578"
@@ -1835,7 +1835,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189451"
+            timestampString = "543501101.440951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -1851,7 +1851,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189481"
+            timestampString = "543501101.441242"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "390"
@@ -1867,7 +1867,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1895109"
+            timestampString = "543501101.441486"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "188"
@@ -1883,7 +1883,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189541"
+            timestampString = "543501101.441692"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "332"
@@ -1899,7 +1899,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.189571"
+            timestampString = "543501101.441893"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "111"
@@ -1931,7 +1931,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.189626"
+            timestampString = "543501101.442175"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
@@ -1947,7 +1947,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.190182"
+            timestampString = "543501101.4425631"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "346"
@@ -1963,7 +1963,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.190217"
+            timestampString = "543501101.442777"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "359"
@@ -1979,7 +1979,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1902471"
+            timestampString = "543501101.442979"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "655"
@@ -1995,7 +1995,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.1902781"
+            timestampString = "543501101.443184"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "962"
@@ -2011,7 +2011,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.190308"
+            timestampString = "543501101.443435"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "370"
@@ -2027,7 +2027,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416160722.507926"
+            timestampString = "543501101.443638"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "17"
@@ -2043,7 +2043,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416165947.260508"
+            timestampString = "543501101.4438469"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "139"
@@ -2059,7 +2059,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.190361"
+            timestampString = "543501101.444023"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "646"
@@ -2075,7 +2075,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.190393"
+            timestampString = "543501101.444226"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "205"
@@ -2091,7 +2091,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416165947.260508"
+            timestampString = "543501101.444589"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "99"
@@ -2107,7 +2107,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.190972"
+            timestampString = "543501101.444761"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1021"
@@ -2123,7 +2123,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.191008"
+            timestampString = "543501101.444972"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "986"
@@ -2139,7 +2139,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416165947.260508"
+            timestampString = "543501101.445176"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "147"
@@ -2155,7 +2155,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416165947.260508"
+            timestampString = "543501101.445349"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "96"
@@ -2171,7 +2171,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/AppDelegate.m"
-            timestampString = "416165947.260508"
+            timestampString = "543501101.4455791"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "80"
@@ -2273,7 +2273,7 @@
             startingLineNumber = "249"
             endingLineNumber = "249"
             landmarkName = "-updateFitnoteStateFromValues:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2363,7 +2363,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/StrengthMachineActivityViewController.m"
-            timestampString = "543353596.191157"
+            timestampString = "543501101.445992"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "635"
@@ -2379,7 +2379,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NFCViewController.m"
-            timestampString = "416164202.454232"
+            timestampString = "543501101.446214"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
@@ -2423,11 +2423,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1912"
+            timestampString = "543501101.4464099"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -2443,12 +2443,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FitNote/deviceSelector.m"
-            timestampString = "543353596.1917959"
+            timestampString = "543501101.446859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "126"
             endingLineNumber = "126"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitNote/deviceSelector.m"
+            timestampString = "543501101.4472229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "-peripheral:didDiscoverServices:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitNote/StrengthMachineActivityViewController.m"
+            timestampString = "543501101.447567"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "459"
+            endingLineNumber = "459"
+            landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitNote/StrengthMachineActivityViewController.m"
+            timestampString = "543501101.447786"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "482"
+            endingLineNumber = "482"
+            landmarkName = "-peripheral:didUpdateValueForCharacteristic:error:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
